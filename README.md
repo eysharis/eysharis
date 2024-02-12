@@ -7,7 +7,6 @@
 </br>
 
 <section>
-  <h3>🔸 Conocimientos: </h3>
   
   <div align="center">
   
