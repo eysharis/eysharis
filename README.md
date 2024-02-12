@@ -59,10 +59,9 @@
   
   <h4>Enlaces de interés: </h4>
   
-  https://www.linkedin.com/in/antiavarela/
-  
-  https://gitlab.com/AntiaVarela
-  
+  [![dev.to badge](https://img.shields.io/badge/-antiavarela-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/antiavarela/)
+  [![dev.to badge](https://img.shields.io/badge/-AntiaVarela-%230177B5?style=flat&logo=gitlab)](https://gitlab.com/AntiaVarela)
+
 </section>
   
 </article>
