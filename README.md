@@ -60,6 +60,7 @@
   
   [![dev.to badge](https://img.shields.io/badge/-antiavarela-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/antiavarela/)
   [![dev.to badge](https://img.shields.io/badge/-AntiaVarela-%230177B5?style=flat&logo=gitlab)](https://gitlab.com/AntiaVarela)
+  [![dev.to badge](https://img.shields.io/badge/-antiavpe-%230177B5?style=flat&logo=github)](https://github.com/antiavpe)
 
 </section>
   
