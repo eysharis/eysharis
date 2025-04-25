@@ -41,6 +41,14 @@
 </br>
 
 <section>
+  <h3>🔸 Experiencia: </h3>
+
+  - FrontEnd Developer: EcoMT (2024 - actualidad) [![dev.to badge](https://img.shields.io/badge/-antiavpe-%230177B5?style=flat&logo=github)](https://github.com/antiavpe)
+</section>
+
+</br>
+
+<section>
   <h3>🔸 Sobre mí:</h3>
 
   <p>
